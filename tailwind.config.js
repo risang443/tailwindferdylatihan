@@ -5,8 +5,8 @@ module.exports = {
     container: { center: true, padding: "16px" },
     extend: {
       colors: {
-        primary: "#0d9488",
-        secondary: "#53e6bc",
+        primary: "#3b34ff",
+        secondary: "#ff9d34",
         dark: "#020617",
         pale: "#64748b",
         complement: "#ff8258",
